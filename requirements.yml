@@ -1,4 +1,4 @@
-name: chromedriver
+name: grabDataSolarEdge
 channels:
   - defaults
 dependencies:
